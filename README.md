@@ -3,7 +3,7 @@ To-Do-List-Application
 
 Focus: User Interface (UI) & Productivity Tools.
 
-Description
+
 In today’s fast-paced world, students and professionals struggle to organize tasks and stay focused. This project develops a Java Swing To-Do List app that helps users plan and track tasks while integrating the Pomodoro Technique with customizable work and break durations to improve time management.
 
 Key Features
@@ -19,7 +19,7 @@ Graphics & UI: Built using javax.swing.* and java.awt.* libraries to create a cl
 
 Focus: Computer Science Fundamentals & Efficiency.
 
-Description
+
 This version is dedicated to highlighting the core concepts of Data Structures and Algorithms. It serves as a laboratory to test how different coding choices affect system performance.
 
 Core Technical Components
