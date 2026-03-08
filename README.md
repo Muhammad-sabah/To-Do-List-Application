@@ -1,34 +1,55 @@
-To-Do-List-Application
-(GUI Version)
+To-Do List Application (Java Swing)
 
-Focus: User Interface (UI) & Productivity Tools.
+This project is a desktop To-Do List application developed in Java using Swing. The application helps users organize tasks, manage daily goals, and improve productivity by integrating the Pomodoro Technique for better time management.
 
+The project also demonstrates important Computer Science concepts, including data structures, sorting algorithms, and performance analysis.
 
-In today’s fast-paced world, students and professionals struggle to organize tasks and stay focused. This project develops a Java Swing To-Do List app that helps users plan and track tasks while integrating the Pomodoro Technique with customizable work and break durations to improve time management.
+Version 1: GUI & Productivity Focus
+
+This version focuses on building an intuitive Graphical User Interface (GUI) that helps users manage tasks effectively.
 
 Key Features
-Task Management: Simple and intuitive interface to add and track daily goals.
 
-Pomodoro Integration: A functional timer to balance deep work and recovery.
-
-Graphics & UI: Built using javax.swing.* and java.awt.* libraries to create a clean desktop experience.
+1-Task Management 
+Simple and user-friendly interface for adding and managing tasks.Allows users to track their daily goals and progress.
 
 
-
-(Data Structures & Sorting Version)
-
-Focus: Computer Science Fundamentals & Efficiency.
+2-Pomodoro Timer
+Implements the Pomodoro Technique to improve focus and productivity.Supports customizable work and break durations.
 
 
-This version is dedicated to highlighting the core concepts of Data Structures and Algorithms. It serves as a laboratory to test how different coding choices affect system performance.
+3-Graphical Interface
+Built using javax.swing and java.awt libraries.Provides a clean and responsive desktop interface.
+
+Version 2: Data Structures & Algorithms Focus
+
+This version highlights the use of fundamental computer science concepts to analyze how implementation choices affect program performance.
 
 Core Technical Components
-Data Structure Comparison:
 
-ArrayList vs. LinkedList: Highlighting the differences in performance, memory usage, and access behavior during real-time operations.
+Data Structure Comparison
 
-Classical Sorting Algorithms:
+1-ArrayList vs LinkedList
 
-Bubble Sort, Selection Sort, and Insertion Sort: Chosen for their educational value to illustrate how theoretical complexity (Big O) affects real program behavior.
+Demonstrates differences in:
 
-Performance Analysis: A practical look at how memory allocation and algorithm choice impact the efficiency of a Java application.
+A-Memory usage
+
+B-Access time
+
+C-Performance during runtime operations
+
+
+2-Sorting Algorithms
+
+A-Bubble Sort
+
+B-Selection Sort
+
+C-Insertion Sort
+
+These algorithms are included to illustrate how algorithmic complexity (Big O notation) influences real program behavior.
+
+Performance Analysis
+
+Examines how memory allocation and algorithm selection impact the efficiency of Java applications.
